@@ -1,0 +1,9 @@
+{
+	"name": "DfDevssadi",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99ea6e44-49ca-4730-be9b-06d508825759",
+		"tenantId": "a8d460ec-56eb-44cd-8a00-e3a4803d19c7"
+	}
+}
